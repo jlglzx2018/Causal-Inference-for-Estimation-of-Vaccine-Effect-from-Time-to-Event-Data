@@ -3,6 +3,9 @@ Vaccine is the most efficient method for controlling of infectious disease. Vacc
 The parameters in the code were modified according to specific dataset. 
 The estimated vaccine effectiveness by the survITE is compared with the Cox regression model and Random survival forest model. The detailed methods is available in manuscript: Causal Inference for Estimation of Vaccine Effect from Time-to-Event Data.
 
+survITE folder contains the main code of survITE model. 
+RSF.py is the code for random survival forest model.
+cox_ph.R is the model for cox regression [2].
 
 Reference:
 [1] Curth, Alicia, Changhee Lee, and Mihaela van der Schaar. "Survite: Learning heterogeneous treatment effects from time-to-event data." Advances in Neural Information Processing Systems 34 (2021): 26740-26753.
