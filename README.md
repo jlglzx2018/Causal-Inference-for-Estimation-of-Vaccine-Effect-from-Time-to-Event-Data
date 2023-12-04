@@ -3,6 +3,8 @@ Vaccine is the most efficient method for controlling of infectious disease. Vacc
 The parameters in the code were modified according to specific dataset. 
 The estimated vaccine effectiveness by the survITE is compared with the Cox regression model and Random survival forest model. The detailed methods is available in manuscript: Causal Inference for Estimation of Vaccine Effect from Time-to-Event Data.
 
+
 Reference:
 [1] Curth, Alicia, Changhee Lee, and Mihaela van der Schaar. "Survite: Learning heterogeneous treatment effects from time-to-event data." Advances in Neural Information Processing Systems 34 (2021): 26740-26753.
+[2] Lin, Dan-Yu, et al. "Effectiveness of Covid-19 vaccines over a 9-month period in North Carolina." New England Journal of Medicine 386.10 (2022): 933-941.
 
